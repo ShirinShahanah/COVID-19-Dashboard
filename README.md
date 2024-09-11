@@ -39,7 +39,7 @@ Country/Region Slicer: Provides the ability to focus on specific countries or re
 
 MULTI-ROW CARD for quick analysis 
       
-      •      Adding on a multi-row card which displays the top 5 countries with the highest new cases. Highlights the most affected countries in terms of recent spikes, providing a quick view of emerging hotspots.
+ Adding on a multi-row card which displays the top 5 countries with the highest new cases. Highlights the most affected countries in terms of recent spikes, providing a quick view of emerging hotspots.
 
 INSIGHTS AND OBSERVATIONS
 
